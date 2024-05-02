@@ -1,5 +1,5 @@
 # retogit
-Creo nuevo repositorio llamado retogit
+![Imagen de Portada](Recursos/images.jpg)
 
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
