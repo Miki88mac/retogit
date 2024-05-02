@@ -1,8 +1,10 @@
 # retogit
 ![Imagen de Portada](Recursos/images.jpg)
 
+---
+
 ## Descripción
-Reto 1 de Entornos de desarrollo, el objetivo de este reto es el aprendizaje a manejar la aplicación github realizando una serie actividades.
+*Reto 1 de Entornos de desarrollo*, el objetivo de este reto es el aprendizaje a manejar la aplicación github realizando una serie actividades.
 
 ## Actividades que se realizan:
 - Creación de repositorio.
@@ -23,6 +25,8 @@ Reto 1 de Entornos de desarrollo, el objetivo de este reto es el aprendizaje a m
  6. Modifico la clase para escribir código dentro de la nueva clase. Documento la modificación a través de commit. Realizo el push para lanzarlo a mi repositorio y asi se actualice. Compruebo que se ha 
     actualizado correctamente mi código en el repositorio.
  7. Para fusionar la rama desarrolloPersona con la rama principal main se realiza primero el pull. Comento los cambios ha realizar: Fusiona la rama “desarrolloPersona” con la rama principal “main” y confirmo el 
-    merge. 
+    merge.
+
+***
 
 
