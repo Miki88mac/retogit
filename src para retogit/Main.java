@@ -72,4 +72,9 @@ public class Main {
 }
 public class retoGit {
     
+    Scanner scn = new Scanner(System.in);
+    int repositorio;
+    System.out.println("Introduzca el repositorio nuevo:");
+        repositorio = scn.nextInt(); 
+
 }
