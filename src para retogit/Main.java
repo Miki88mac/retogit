@@ -11,6 +11,7 @@ public class Main {
         int year;
         int month;
         int day = 1;
+        int dia;
 
         System.out.println("Introduzca el año:");
         year = scn.nextInt();
