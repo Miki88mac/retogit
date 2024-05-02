@@ -11,6 +11,7 @@ public class Main {
         int year;
         int month;
         int day = 1;
+        int dia;
 
         System.out.println("Introduzca el año:");
         year = scn.nextInt();
@@ -68,4 +69,12 @@ public class Main {
             if (x % 7 == 0) System.out.println();
         }
     }
+}
+public class retoGit {
+    
+    Scanner scn = new Scanner(System.in);
+    int repositorio;
+    System.out.println("Introduzca el repositorio nuevo:");
+        repositorio = scn.nextInt(); 
+
 }
